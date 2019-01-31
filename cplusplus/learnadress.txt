@@ -1,2 +1,2 @@
-# C++学习中文官网
+# C++学习中文官网(技术手册)
 https://zh.cppreference.com/w/cpp
